@@ -2,7 +2,7 @@
 # Trilha de Desenvolvimento - Backend Hub
 Skills and resources for backend developers to track and learn their progress.
 
-** Trilha do Gabriel Henrique **
+**Trilha do Gabriel Henrique**
 
 Habilidades e recursos para desenvolvedores backend, para poder medir e rastrear seu aprendizado e progresso.
 
